@@ -9,4 +9,5 @@
 	<Item Name="Idle.lvclass" Type="LVClass" URL="../Idle/Idle.lvclass"/>
 	<Item Name="Logging.lvclass" Type="LVClass" URL="../Logging/Logging.lvclass"/>
 	<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
+	<Item Name="Timed Out.lvclass" Type="LVClass" URL="../Timed Out/Timed Out.lvclass"/>
 </Library>
