@@ -5,9 +5,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Active.lvclass" Type="LVClass" URL="../Active/Active.lvclass"/>
+	<Item Name="Container State.lvclass" Type="LVClass" URL="../Container State/Container State.lvclass"/>
 	<Item Name="Idle.lvclass" Type="LVClass" URL="../Idle/Idle.lvclass"/>
 	<Item Name="Logging.lvclass" Type="LVClass" URL="../Logging/Logging.lvclass"/>
-	<Item Name="Nested State.lvclass" Type="LVClass" URL="../Nested State/Nested State.lvclass"/>
 	<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
-	<Item Name="~State.lvclass" Type="LVClass" URL="../~State/~State.lvclass"/>
 </Library>
