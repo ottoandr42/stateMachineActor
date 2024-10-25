@@ -9,4 +9,5 @@
 	<Item Name="Logging.lvclass" Type="LVClass" URL="../Logging/Logging.lvclass"/>
 	<Item Name="Nested State.lvclass" Type="LVClass" URL="../Nested State/Nested State.lvclass"/>
 	<Item Name="State.lvclass" Type="LVClass" URL="../State/State.lvclass"/>
+	<Item Name="~State.lvclass" Type="LVClass" URL="../~State/~State.lvclass"/>
 </Library>
