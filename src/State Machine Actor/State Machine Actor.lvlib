@@ -4,14 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Messages" Type="Folder">
-		<Item Name="Cycle Complete Msg.lvclass" Type="LVClass" URL="../State Machine Messages/Cycle Complete Msg/Cycle Complete Msg.lvclass"/>
-		<Item Name="Logging Active Msg.lvclass" Type="LVClass" URL="../State Machine Messages/Logging Active Msg/Logging Active Msg.lvclass"/>
-		<Item Name="Logging Stopped Msg.lvclass" Type="LVClass" URL="../State Machine Messages/Logging Stopped Msg/Logging Stopped Msg.lvclass"/>
-		<Item Name="Reset Msg.lvclass" Type="LVClass" URL="../State Machine Messages/Reset Msg/Reset Msg.lvclass"/>
-		<Item Name="Start Cycle Msg.lvclass" Type="LVClass" URL="../State Machine Messages/Start Cycle Msg/Start Cycle Msg.lvclass"/>
-		<Item Name="Start Logging Msg.lvclass" Type="LVClass" URL="../State Machine Messages/Start Logging Msg/Start Logging Msg.lvclass"/>
-		<Item Name="Timeout Msg.lvclass" Type="LVClass" URL="../State Machine Messages/Timeout Msg/Timeout Msg.lvclass"/>
-	</Item>
-	<Item Name="State Machine.lvclass" Type="LVClass" URL="../State Machine/State Machine.lvclass"/>
+	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="State Machine Actor.lvclass" Type="LVClass" URL="../State Machine Actor/State Machine Actor.lvclass"/>
 </Library>
