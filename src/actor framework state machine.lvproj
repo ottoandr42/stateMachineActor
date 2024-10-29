@@ -14,11 +14,16 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="_State Machine Actor.lvlib" Type="Library" URL="../_State Machine Actor/_State Machine Actor.lvlib"/>
+		<Item Name="Active.lvlib" Type="Library" URL="../Active/Active.lvlib"/>
+		<Item Name="Automation Controller.lvlib" Type="Library" URL="../Automation Controller/Automation Controller.lvlib"/>
 		<Item Name="Context.lvlib" Type="Library" URL="../Context/Context.lvlib"/>
+		<Item Name="Idle.lvlib" Type="Library" URL="../Idle/Idle.lvlib"/>
+		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="State Machine Actor.lvlib" Type="Library" URL="../State Machine Actor/State Machine Actor.lvlib"/>
 		<Item Name="State Machine.lvlib" Type="Library" URL="../State Machine/State Machine.lvlib"/>
 		<Item Name="State.lvlib" Type="Library" URL="../State Machine/State/State.lvlib"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+		<Item Name="Test2.vi" Type="VI" URL="../Test2.vi"/>
 		<Item Name="Timed Out.lvlib" Type="Library" URL="../Timed Out/Timed Out.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -33,6 +38,7 @@
 				<Item Name="Time-Delayed Send Message.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="Dummy Actor Method.vi" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/MessageMakerProvider/_Message Maker/_templates/Message Template/Dummy Actor Method.vi"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
