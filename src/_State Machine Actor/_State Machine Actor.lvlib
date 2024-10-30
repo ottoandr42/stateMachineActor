@@ -4,8 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Messages for this Actor" Type="Folder">
-		<Item Name="Timeout Msg.lvclass" Type="LVClass" URL="../_State Machine Actor Messages/Timeout Msg/Timeout Msg.lvclass"/>
-	</Item>
+	<Item Name="Messages for this Actor" Type="Folder"/>
 	<Item Name="_State Machine Actor.lvclass" Type="LVClass" URL="../_State Machine Actor/_State Machine Actor.lvclass"/>
 </Library>
