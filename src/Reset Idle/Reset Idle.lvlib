@@ -4,9 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Messages for this Actor" Type="Folder">
-		<Item Name="Reset Timeout Msg.lvclass" Type="LVClass" URL="../State Machine Actor Messages/Reset Timeout Msg/Reset Timeout Msg.lvclass"/>
-		<Item Name="Timeout Msg.lvclass" Type="LVClass" URL="../State Machine Actor Messages/Timeout Msg/Timeout Msg.lvclass"/>
-	</Item>
-	<Item Name="State Machine Actor.lvclass" Type="LVClass" URL="../State Machine Actor/State Machine Actor.lvclass"/>
+	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Reset Idle.lvclass" Type="LVClass" URL="../Reset Idle/Reset Idle.lvclass"/>
 </Library>

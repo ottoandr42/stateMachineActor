@@ -10,6 +10,7 @@
 		<Item Name="Logging Active Msg.lvclass" Type="LVClass" URL="../Automation Controller Messages/Logging Active Msg/Logging Active Msg.lvclass"/>
 		<Item Name="Logging Stopped Msg.lvclass" Type="LVClass" URL="../Automation Controller Messages/Logging Stopped Msg/Logging Stopped Msg.lvclass"/>
 		<Item Name="Start Cycle Msg.lvclass" Type="LVClass" URL="../Automation Controller Messages/Start Cycle Msg/Start Cycle Msg.lvclass"/>
+		<Item Name="Start Saw Msg.lvclass" Type="LVClass" URL="../Automation Controller Messages/Start Saw Msg/Start Saw Msg.lvclass"/>
 	</Item>
 	<Item Name="Automation Controller.lvclass" Type="LVClass" URL="../Automation Controller/Automation Controller.lvclass"/>
 </Library>

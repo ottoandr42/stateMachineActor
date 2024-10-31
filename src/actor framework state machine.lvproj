@@ -19,6 +19,7 @@
 		<Item Name="Context.lvlib" Type="Library" URL="../Context/Context.lvlib"/>
 		<Item Name="Idle.lvlib" Type="Library" URL="../Idle/Idle.lvlib"/>
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
+		<Item Name="Saw Running.lvlib" Type="Library" URL="../Saw Running/Saw Running.lvlib"/>
 		<Item Name="State Machine Actor.lvlib" Type="Library" URL="../State Machine Actor/State Machine Actor.lvlib"/>
 		<Item Name="State Machine.lvlib" Type="Library" URL="../State Machine/State Machine.lvlib"/>
 		<Item Name="State.lvlib" Type="Library" URL="../State Machine/State/State.lvlib"/>
